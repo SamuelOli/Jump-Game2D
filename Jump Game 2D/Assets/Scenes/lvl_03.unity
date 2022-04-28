@@ -4919,7 +4919,7 @@ MonoBehaviour:
   totalFruits: 0
   fruitText: {fileID: 1725412739}
   maxFruits: 16
-  fruits: {fileID: 0}
+  fruits: {fileID: 1417203469}
   healthBar: {fileID: 1592168555}
   health: 0
   txtTime: {fileID: 1823416631}
